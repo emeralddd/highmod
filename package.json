@@ -2,10 +2,10 @@
   "name": "eac",
   "version": "1.0.0",
   "description": "",
-  "main": "mainbot.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon --watch commands --watch mainbot.js --watch modules"
+    "start": "nodemon --watch commands --watch index.js --watch modules"
   },
   "author": "EMERALD",
   "license": "ISC",
